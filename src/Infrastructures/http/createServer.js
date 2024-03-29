@@ -70,7 +70,7 @@ const createServer = async (container) => {
     method: 'GET',
     path: '/',
     handler: () => ({
-      value: 'Welcome to Forum API!',
+      value: 'Welcome to Forum API!!',
     }),
   });
 
